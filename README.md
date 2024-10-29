@@ -43,7 +43,7 @@ The model supports long-term sustainability by helping to optimize water treatme
 ### Public Health Impact: 
 By accurately predicting water quality and potential health risks, my system contributes to reducing waterborne diseases and improving public health outcomes.
 ### Sustainability: 
-The project promotes sustainable water management practices by providing data-driven insights into water quality, helping to ensure that clean drinking water is accessible.
+ The project promotes sustainable water management practices by providing data-driven insights into water quality, helping to ensure that clean drinking water is accessible.
 ### Scalability: 
 My machine learning models can be scaled to different regions or integrated with IoT sensors in smart cities to continuously monitor water quality.
 ## 8. Future Work
