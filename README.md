@@ -1,6 +1,6 @@
 # Water-Quality-and-Health-Risk-Analysis-Using-Machine-Learning-for-Sustainable-Drinking-Water-SystemS
 ## 1. Project Overview
-In this project, I focused on analyzing water quality and associated health risks using machine learning techniques to ensure sustainable drinking water systems. My goal was to assess and predict water quality to prevent health risks caused by waterborne diseases and contaminants. Machine learning models were used to identify patterns in water quality data and provide insights for improving water safety and sustainability.
+In this project, I focused on analyzing water quality and associated health risks using machine learning techniques to ensure sustainable drinking water systems. My goal was to assess and predict water quality to prevent health risks caused by waterborne diseases and contaminants. Machine learning models were used to identify patterns in water quality data and provide insights for improving water safety and sustainability. 
 
 ## 2. Objectives
 ### Assess Water Quality:   
