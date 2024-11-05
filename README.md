@@ -3,7 +3,7 @@
 In this project, I focused on analyzing water quality and associated health risks using machine learning techniques to ensure sustainable drinking water systems. My goal was to assess and predict water quality to prevent health risks caused by waterborne diseases and contaminants. Machine learning models were used to identify patterns in water quality data and provide insights for improving water safety and sustainability.
 
 ## 2. Objectives
-### Assess Water Quality: 
+### Assess Water Quality:   
 I aimed to evaluate the quality of drinking water by analyzing various physicochemical parameters such as pH, turbidity, dissolved oxygen (DO), electrical conductivity (EC), and concentrations of harmful substances like lead or arsenic.
 ### Health Risk Prediction: 
 I intended to predict potential health risks based on water contamination levels, allowing for early detection and intervention.
